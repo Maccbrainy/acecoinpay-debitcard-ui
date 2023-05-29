@@ -1,2 +1,2 @@
-export { default as DebitCardCheckOut } from './DebitCardCheckOut'
-export { default as NavBar } from './NavBar'
+export { default as PaymentCheckout } from './PaymentCheckout'
+export { default as Header } from './Header'
